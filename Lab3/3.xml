@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bestiarum>
+	<monster>
+		<id>1</id>
+		<name>Леший</name>
+		<description>Гибрид человека и лесного духа</description>
+		<function>Охрана древних рощ</function>
+		<danger>7</danger>
+		<habitat>Чащи Брокилона и Эдингеля</habitat>
+		<first_mention>1234-06-21</first_mention>
+		<immunity>Магия</immunity>
+		<immunity>Оглушение</immunity>
+		<immunity>Яды</immunity>
+		<height>3</height>
+		<weight>300</weight>
+		<activity_time>Ночь</activity_time>
+		<recept>
+			<ingredient>Корень мандрагоры (3)</ingredient>
+			<ingredient>Пепел драконида (1)</ingredient>
+			<ingredient>Эссенция полыни</ingredient>
+			<preparation_time>60</preparation_time>
+			<effectiveness>Умеренная</effectiveness>
+		</recept>
+	</monster>
+	<monster>
+		<id>2</id>
+		<name>Полуденница</name>
+		<description>Призрак</description>
+		<function>Терроризация полей во время жатвы</function>
+		<danger>5</danger>
+		<habitat>Поля Редании и амбары Туссента</habitat>
+		<first_mention>1198-07-15</first_mention>
+		<immunity>Световая магия</immunity>
+		<immunity>Кровотечение</immunity>
+		<weight>Неосязаем</weight>
+		<activity_time>День</activity_time>
+		<recept>
+			<ingredient>Лепестки лунного цветка (2)</ingredient>
+			<ingredient>Серебряная нить (1)</ingredient>
+			<ingredient>Экстракт чеснока</ingredient>
+			<preparation_time>30</preparation_time>
+			<effectiveness>Высокая</effectiveness>
+		</recept>
+	</monster>
+	<monster>
+		<id>3</id>
+		<name>Катакан</name>
+		<description>Крылатый демон с хвостом скорпиона</description>
+		<danger>9</danger>
+		<habitat>Горные пещеры Туссента</habitat>
+		<first_mention>1150-04-12</first_mention>
+		<immunity>Огонь</immunity>
+		<immunity>Яды</immunity>
+		<height>2</height>
+		<weight>200</weight>
+		<activity_time>Сумерки</activity_time>
+		<recept>
+			<ingredient>Жало мантикоры (4)</ingredient>
+			<ingredient>Нефритовая пыль (2)</ingredient>
+			<ingredient>Спирт Альберихта</ingredient>
+			<preparation_time>90</preparation_time>
+			<effectiveness>Средняя</effectiveness>
+		</recept>
+	</monster>
+	<monster>
+		<id>4</id>
+		<name>Кикимора</name>
+		<description>Болотная нежить из гниющих останков</description>
+		<danger>6</danger>
+		<habitat>Топи Вендена</habitat>
+		<first_mention>1221-09-03</first_mention>
+		<immunity>Земляная магия</immunity>
+		<immunity>Удушье</immunity>
+		<height>1</height>
+		<weight>15</weight>
+		<activity_time>Ночь</activity_time>
+		<recept>
+			<ingredient>Грибы-поганки (5)</ingredient>
+			<ingredient>Глаз василиска (1)</ingredient>
+			<ingredient>Роса папоротника (3)</ingredient>
+			<preparation_time>45</preparation_time>
+			<effectiveness>Средняя</effectiveness>
+		</recept>
+	</monster>
+	<monster>
+		<id>5</id>
+		<name>Элементаль льда</name>
+		<description>Дух вечной зимы</description>
+		<danger>10</danger>
+		<habitat>Ледники Ковира</habitat>
+		<first_mention>1105-12-01</first_mention>
+		<immunity>Заморозка</immunity>
+		<immunity>Дробление</immunity>
+		<height>5</height>
+		<weight>Не измерим</weight>
+		<activity_time>Всегда</activity_time>
+		<recept>
+			<ingredient>Сердце огненного элементаля (1)</ingredient>
+			<ingredient>Сера (3)</ingredient>
+			<ingredient>Расплавленное железо</ingredient>
+			<preparation_time>120</preparation_time>
+			<effectiveness>Переменная</effectiveness>
+		</recept>
+	</monster>
+	<monster>
+		<id>6</id>
+		<name>Болотный скрытень</name>
+		<description>Амфибия-хамелеон, покрытая ядовитой слизью</description>
+		<function>Засада на путников у водоемов</function>
+		<danger>4</danger>
+		<habitat>Болота и тихие заводи Вендена и Назаира</habitat>
+		<first_mention>1208-03-17</first_mention>
+		<immunity>Водная магия</immunity>
+		<immunity>Отравление</immunity>
+		<height>1</height>
+		<weight>80</weight>
+		<activity_time>Сумерки</activity_time>
+		<recept>
+			<ingredient>Жабья кожа (2)</ingredient>
+			<ingredient>Жемчужина глубин (1)</ingredient>
+			<ingredient>Соль Ксарета</ingredient>
+			<preparation_time>35</preparation_time>
+			<effectiveness>Высокая</effectiveness>
+		</recept>
+	</monster>
+	<monster>
+		<id>7</id>
+		<name>Пещерный пожиратель</name>
+		<description>Слепой червь-гигант с множеством щупалец</description>
+		<function>Рытье тоннелей и нарушение основ мироздания</function>
+		<danger>8</danger>
+		<habitat>Подземелья Махакама и глубины Метинны</habitat>
+		<first_mention>1166-11-30</first_mention>
+		<immunity>Темная магия</immunity>
+		<immunity>Оглушение</immunity>
+		<height>4</height>
+		<weight>2000</weight>
+		<activity_time>Всегда</activity_time>
+		<recept>
+			<ingredient>Зуб урконта (5)</ingredient>
+			<ingredient>Каменное сердце (1)</ingredient>
+			<ingredient>Кислота (2)</ingredient>
+			<preparation_time>75</preparation_time>
+			<effectiveness>Умеренная</effectiveness>
+		</recept>
+	</monster>
+	<monster>
+		<id>8</id>
+		<name>Огнедышащий цверг</name>
+		<description>Карликовый драконид с горящей бородой</description>
+		<function>Кузнечное дело и охрана рудников</function>
+		<danger>5</danger>
+		<habitat>Вулканы Зеррикании и горные шахты Кедивена</habitat>
+		<first_mention>1189-08-22</first_mention>
+		<immunity>Огонь</immunity>
+		<immunity>Жар</immunity>
+		<height>1</height>
+		<weight>90</weight>
+		<activity_time>День</activity_time>
+		<recept>
+			<ingredient>Закаленная сталь (3)</ingredient>
+			<ingredient>Фрагмент звездной пыль (1)</ingredient>
+			<ingredient>Эльфийский самогон</ingredient>
+			<preparation_time>50</preparation_time>
+			<effectiveness>Средняя</effectiveness>
+		</recept>
+	</monster>
+	<monster>
+		<id>9</id>
+		<name>Призрачный всадник</name>
+		<description>Ожившие доспехи на спектральном скакуне</description>
+		<function>Предвестник войны и смерти</function>
+		<danger>9</danger>
+		<habitat>Заброшенные поля сражений и старые кладбища Темрии</habitat>
+		<first_mention>1122-10-31</first_mention>
+		<immunity>Колющее оружие</immunity>
+		<immunity>Проклятия</immunity>
+		<height>3</height>
+		<weight>Неосязаем</weight>
+		<activity_time>Ночь</activity_time>
+		<recept>
+			<ingredient>Фосфор (4)</ingredient>
+			<ingredient>Пыль забытых костей (2)</ingredient>
+			<ingredient>Слеза невинной (1)</ingredient>
+			<preparation_time>85</preparation_time>
+			<effectiveness>Высокая</effectiveness>
+		</recept>
+	</monster>
+	<monster>
+		<id>10</id>
+		<name>Лесной шептун</name>
+		<description>Древнее дерево, наделенное коварным разумом</description>
+		<function>Охрана священных рощ и сбивание путников с тропы</function>
+		<danger>7</danger>
+		<habitat>Самые древние леса Брокилона</habitat>
+		<first_mention>1050-05-01</first_mention>
+		<immunity>Растительная магия</immunity>
+		<immunity>Кровотечение</immunity>
+		<height>7</height>
+		<weight>Не измерим</weight>
+		<activity_time>Сумерки</activity_time>
+		<recept>
+			<ingredient>Семя древнего дуба (1)</ingredient>
+			<ingredient>Смола (3)</ingredient>
+			<ingredient>Живая вода</ingredient>
+			<preparation_time>110</preparation_time>
+			<effectiveness>Переменная</effectiveness>
+		</recept>
+	</monster>
+</bestiarum>
