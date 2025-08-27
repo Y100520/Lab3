@@ -1,0 +1,143 @@
+bestiarum:
+  monster:
+  - id: 1
+    name: Леший
+    description: Гибрид человека и лесного духа
+    function: Охрана древних рощ
+    danger: 7
+    habitat: Чащи Брокилона и Эдингеля
+    first_mention: '1234-06-21'
+    immunity:
+    - Магия
+    - Оглушение
+    - Яды
+    height: 3
+    weight: '300'
+    activity_time: Ночь
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
+  - id: 2
+    name: Полуденница
+    description: Призрак
+    function: Терроризация полей во время жатвы
+    danger: 5
+    habitat: Поля Редании и амбары Туссента
+    first_mention: '1198-07-15'
+    immunity:
+    - Световая магия
+    - Кровотечение
+    height: 0
+    weight: Неосязаем
+    activity_time: День
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
+  - id: 3
+    name: Катакан
+    description: Крылатый демон с хвостом скорпиона
+    function: null
+    danger: 9
+    habitat: Горные пещеры Туссента
+    first_mention: '1150-04-12'
+    immunity:
+    - Огонь
+    - Яды
+    height: 2
+    weight: '200'
+    activity_time: Сумерки
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
+  - id: 4
+    name: Кикимора
+    description: Болотная нежить из гниющих останков
+    function: null
+    danger: 6
+    habitat: Топи Вендена
+    first_mention: '1221-09-03'
+    immunity:
+    - Земляная магия
+    - Удушье
+    height: 1
+    weight: '15'
+    activity_time: Ночь
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
+  - id: 5
+    name: Элементаль льда
+    description: Дух вечной зимы
+    function: null
+    danger: 10
+    habitat: Ледники Ковира
+    first_mention: '1105-12-01'
+    immunity:
+    - Заморозка
+    - Дробление
+    height: 5
+    weight: Не измерим
+    activity_time: Всегда
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
+  - id: 6
+    name: Болотный скрытень
+    description: Амфибия-хамелеон, покрытая ядовитой слизью
+    function: Засада на путников у водоемов
+    danger: 4
+    habitat: Болота и тихие заводи Вендена и Назаира
+    first_mention: '1208-03-17'
+    immunity:
+    - Водная магия
+    - Отравление
+    height: 1
+    weight: '80'
+    activity_time: Сумерки
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
+  - id: 7
+    name: Пещерный пожиратель
+    description: Слепой червь-гигант с множеством щупалец
+    function: Рытье тоннелей и нарушение основ мироздания
+    danger: 8
+    habitat: Подземелья Махакама и глубины Метинны
+    first_mention: '1166-11-30'
+    immunity:
+    - Темная магия
+    - Оглушение
+    height: 4
+    weight: '2000'
+    activity_time: Всегда
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
+  - id: 8
+    name: Огнедышащий цверг
+    description: Карликовый драконид с горящей бородой
+    function: Кузнечное дело и охрана рудников
+    danger: 5
+    habitat: Вулканы Зеррикании и горные шахты Кедивена
+    first_mention: '1189-08-22'
+    immunity:
+    - Огонь
+    - Жар
+    height: 1
+    weight: '90'
+    activity_time: День
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
+  - id: 9
+    name: Призрачный всадник
+    description: Ожившие доспехи на спектральном скакуне
+    function: Предвестник войны и смерти
+    danger: 9
+    habitat: Заброшенные поля сражений и старые кладбища Темрии
+    first_mention: '1122-10-31'
+    immunity:
+    - Колющее оружие
+    - Проклятия
+    height: 3
+    weight: Неосязаем
+    activity_time: Ночь
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
+  - id: 10
+    name: Лесной шептун
+    description: Древнее дерево, наделенное коварным разумом
+    function: Охрана священных рощ и сбивание путников с тропы
+    danger: 7
+    habitat: Самые древние леса Брокилона
+    first_mention: '1050-05-01'
+    immunity:
+    - Растительная магия
+    - Кровотечение
+    height: 7
+    weight: Не измерим
+    activity_time: Сумерки
+    source: C:\Users\yura1\OneDrive\Desktop\Lab3\3.yaml
